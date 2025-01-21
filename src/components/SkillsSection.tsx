@@ -5,7 +5,7 @@ import { TetrisGame } from './TetrisGame';
 
 const skills = [
   { name: 'Rust', percentage: 67, logo: '/logos/rust.svg' },
-  { name: 'C Holy', percentage: 80, logo: '/logos/c.svg' },
+  { name: 'C Holy', percentage: 80, logo: '/logos/c-holy.svg' },
   { name: 'C', percentage: 60, logo: '/logos/c.svg' },
   { name: 'TypeScript', percentage: 84, logo: '/logos/typescript.svg' },
   { name: 'Vue', percentage: 90, logo: '/logos/vue.svg' },
