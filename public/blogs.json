@@ -1,0 +1,14 @@
+
+{
+  "blogs": [
+    {
+      "id": "discord-community",
+      "title": "Join Our Discord Community",
+      "date": "2023-03-30",
+      "excerpt": "I've created a Discord server for like-minded developers and designers. Come join us to discuss projects, share ideas, and collaborate!",
+      "path": "/blogs/2023-03/discord-community.md",
+      "tags": ["community", "discord", "collaboration"],
+      "coverImage": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d"
+    }
+  ]
+}
